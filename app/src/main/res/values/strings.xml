@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">CleanStatusBar</string>
-    <string name="app_description">隱藏狀態列上下傳箭頭、VoLTE 圖示同隱私綠點</string>
+    <string name="app_description">隱藏上下傳箭頭、VoLTE 圖示，去除隱私綠點同其預留空位</string>
 </resources>
